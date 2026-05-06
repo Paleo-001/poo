@@ -1,3 +1,5 @@
+package SistemaFrotas;
+
 public class Carro extends Veiculo {
     private int numPortas;
 

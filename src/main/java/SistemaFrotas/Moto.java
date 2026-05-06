@@ -1,3 +1,5 @@
+package SistemaFrotas;
+
 public class Moto extends Veiculo {
     private int cilindrada;
 
@@ -16,4 +18,5 @@ public class Moto extends Veiculo {
     }
 
     public int getCilindrada() { return cilindrada; }
+
 }

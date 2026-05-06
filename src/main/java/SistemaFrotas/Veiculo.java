@@ -1,3 +1,5 @@
+package SistemaFrotas;
+
 public class Veiculo {
     private String placa;
     private String marca;
