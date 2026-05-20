@@ -1,5 +1,7 @@
 package MenuInterativo;
+
 import java.util.Scanner;
+
 public class MenuInterativo {
     public static void main(String[] args) {
         Scanner scanner = new Scanner(System.in);

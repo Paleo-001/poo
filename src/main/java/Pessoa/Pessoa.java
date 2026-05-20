@@ -6,7 +6,7 @@ class Pessoa {
         this.nome = nome;
         this.idade = idade;
     }   void verificarMaioridade() {
-        if (idade \>= 18) {
+        if (idade >= 18) {
             System.out.printf("%s é maior de idade.\n", nome);
         } else {
             System.out.printf("%s é menor de idade.\n", nome);
