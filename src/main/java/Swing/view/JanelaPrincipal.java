@@ -48,4 +48,5 @@ public class JanelaPrincipal extends JFrame {
     public static void main(String[] args){
         SwingUtilities.invokeLater(() -> new JanelaPrincipal().setVisible(true));
     }
+
 }
